@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ake:home|Door43 (ake)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ake|d43-ake repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ake/archive/master.zip|d43-ake.zip]]
+
+**Recent Changes**
+{{changes>ns = ake}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ake|Ethnologue data]]
+
